@@ -26,8 +26,5 @@ include::sections/introduccion.adoc[]
 
 include::sections/preparando_el_entorno.adoc[]
 
-== Extras
 
-include::sections/FAQ.adoc[FAQ]
-
-
+include::sections/extras.adoc[Extras]
