@@ -1,1 +1,28 @@
-# debugging_docs
+# Notas de italiano
+:author: Ernesto Bossi
+:encoding: utf-8
+:lang: es
+:toc: left
+:toclevels: 3
+:experimental:
+:icons: font
+:partnums:
+:sectnums:
+:sectlinks:
+:!compat-mode:
+:source-highlighter: rouge
+:imagesdir: images
+:ditaa-shadows: false
+:ditaa-transparent: true
+:attribute-missing: warn
+:xrefstyle: short
+
+toc::[]
+
+== Previo al uso del debugger
+
+include::sections/preparando_el_entorno.adoc[]
+
+== Extras
+
+
