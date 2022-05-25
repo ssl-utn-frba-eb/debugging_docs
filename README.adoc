@@ -24,8 +24,6 @@ toc::[]
 
 include::sections/introduccion.adoc[]
 
-== Previo al uso del debugger
-
 include::sections/preparando_el_entorno.adoc[]
 
 == Extras
