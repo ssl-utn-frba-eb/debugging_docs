@@ -1,4 +1,4 @@
-# Notas de italiano
+= SSL - Depuracion de codigo en C con Visual Studio Code
 :author: Ernesto Bossi
 :encoding: utf-8
 :lang: es
@@ -21,8 +21,10 @@ toc::[]
 
 == Previo al uso del debugger
 
-include::sections/preparando_el_entorno.adoc[]
+include::sections/preparando_el_entorno.asciidoc[]
 
 == Extras
+
+include::sections/FAQ.asciidoc[FAQ]
 
 
