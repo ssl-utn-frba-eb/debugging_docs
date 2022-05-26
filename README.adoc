@@ -12,7 +12,7 @@
 :sectlinks:
 :!compat-mode:
 :source-highlighter: rouge
-:imagesdir: images
+:imagesdir: sections
 :ditaa-shadows: false
 :ditaa-transparent: true
 :attribute-missing: warn
