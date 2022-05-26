@@ -10,6 +10,8 @@ Este documento describira los pasos para poder empezar a utilizar el modo de `de
 
 Este documento tiene como proposito, describir los requisitos, y pasos a seguir para poder utilizar el depurador de C `gdb` en Linux y windows.
 
+image::images/intro_example_debugging.png[ejemplo de depuracion en C con GDB]
+
 NOTE: La eleccion de Visual Studio Code{vscode_webpage}, fue debido a que la mayoria de los alumnos que cursan _Sintaxis y Semantica de los Lenguajes_ utiliza dicho entorno para programa en C.
 
 === Que es un depuarador (debugger)?

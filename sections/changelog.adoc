@@ -1,7 +1,11 @@
 == Changelog
 
+=== Sobre el Changelog
+
+En esta seccion se describira los distintos cambios que tiene dicha guia.
+
 // tag::compact[]
-=== 1.0.1 (2022-05-25) - @bossiernesto
+==== 1.0.1 (2022-05-25) - @bossiernesto
 
 Documentation::
 
@@ -11,7 +15,7 @@ Documentation::
 // end::compact[]
 
 // tag::compact[]
-=== 1.0.0 (2022-05-22) - @bossiernesto
+==== 1.0.0 (2022-05-22) - @bossiernesto
 
 Primera version de esta guia de depuracion, con codigo de prueba y descripcion de uso en Linux y Windows.
 
