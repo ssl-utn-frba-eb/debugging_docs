@@ -1,0 +1,3 @@
+= Depuracion de codigo C en VSCode con GDB
+
+== S

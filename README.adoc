@@ -22,9 +22,8 @@
 
 toc::[]
 
-include::sections/introduccion.adoc[]
+include::sections/introduccion.adoc[Introduccion e instalacion de dependencias.]
 
-include::sections/preparando_el_entorno.adoc[]
-
+include::sections/depuracion.adoc[Depuracion en VSCode con gdb]
 
 include::sections/extras.adoc[Extras]
