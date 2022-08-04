@@ -1,5 +1,0 @@
-= Introduccion
-
-include::antes_empezar.adoc[FAQ]
-
-include::preparando_el_entorno.adoc[FAQ]

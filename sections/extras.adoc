@@ -1,7 +1,0 @@
-= Extras
-
-include::FAQ.adoc[FAQ]
-
-include::apendice.adoc[FAQ]
-
-include::changelog.adoc[FAQ]
