@@ -8,7 +8,7 @@ Esta sección tratara el uso y los pasos para empezar a depurar código en C. Se
 
 El objetivo de esta sección es la de describir un uso basico de esta herramienta.
 
-EL código de prueba que se utilizara en este ejemplo puede encontrarse https://github.com/ssl-utn-frba-eb/ssl-tad-example[en este repositorio].
+EL código de prueba que se utilizara en este ejemplo puede encontrarse https://github.com/ssl-utn-frba-eb/ssl-debugging-example[en este repositorio].
 
 === Antes de empezar
 
