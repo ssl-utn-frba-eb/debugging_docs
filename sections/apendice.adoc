@@ -2,7 +2,7 @@
 
 === Configuraciones de ejemplo
 
-NOTE: Estas son configuraciones de prueba, y son el puntapie inicial y minimo para poder hacer funcionar el depurador.
+NOTE: Estas son configuraciones de prueba, y son el puntapie inicial y minimo para poder hacer funciónar el depurador.
 
 WARNING: Hay que siempre cambiar los argumentos `program` y `args`, con el ejecutable que necesitemos _"debuggear"_ e inspeccionar, y con los argumentos que necesite el mismo.
 

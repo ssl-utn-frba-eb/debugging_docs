@@ -1,6 +1,6 @@
-= SSL - Depuracion de codigo en C con Visual Studio Code
+= SSL - depuración de código en C con Visual Studio Code
 :author: Ernesto Bossi
-:title: Depuracion de codigo en C con VSCode
+:title: depuración de código en C con VSCode
 :encoding: utf-8
 :lang: es
 :toc: left
@@ -24,6 +24,6 @@ toc::[]
 
 include::sections/introduccion.adoc[Introduccion e instalacion de dependencias.]
 
-include::sections/depuracion.adoc[Depuracion en VSCode con gdb]
+include::sections/depuración.adoc[depuración en VSCode con gdb]
 
 include::sections/extras.adoc[Extras]
