@@ -55,6 +55,8 @@ int main(){
 }
 ```
 
+NOTE: Este ejemplo puede encontrarse, junto con el makefile, y todos los archivos necesarios en este https://github.com/ssl-utn-frba-eb/ssl-debugging-example[repositorio]
+
 En este caso solo basta con agregar los flags a 
 
 ```bash
