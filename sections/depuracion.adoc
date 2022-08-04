@@ -63,9 +63,9 @@ En este caso solo basta con agregar los flags a
 gcc main.c -g -O0 -W -Wall
 ```
 
--Werror
+TIP: Podemos reemplazar el `-Wall` por `-Werror`, para que solo mencione los errores y no continue la compilacion, sin tener en cuenta los warnings.
 
-Ahora, si tenemos un proyecto mas completo, en el que necesitamos que exista el `Makefile`, tendremos que agregar 
+Ahora, si tenemos un proyecto mas completo, en el que necesitamos que exista el `Makefile`, tendremos que agregar una regla para agregar estos flags y que pueda utilizarse el depurador.
 
 TIP: Es util tener otra regla, si se usa _Makefile_, para correr la compilacion con las banderas de depuración y otra para la compilacion normal, en especial, si usamos la bandera `-O0`, debido a que esta opcion, desabilita la optimizacion del código, y permitira que podamos correr la depuración sin mayores problemas.
 
